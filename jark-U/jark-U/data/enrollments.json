@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ENR-001",
+    "studentId": "2023-0001-A",
+    "semesterId": "SEM-2025-1",
+    "subjects": ["CRS-003", "CRS-004", "CRS-006"],
+    "status": "verified",
+    "submittedAt": "2025-07-15 09:00:00",
+    "verifiedAt": "2025-07-16 14:00:00",
+    "verifiedBy": "REG-001",
+    "updatedAt": "2025-07-16 14:00:00"
+  },
+  {
+    "id": "ENR-002",
+    "studentId": "2023-0002-A",
+    "semesterId": "SEM-2025-1",
+    "subjects": ["CRS-004", "CRS-006", "CRS-007"],
+    "status": "pending",
+    "submittedAt": "2025-07-18 10:30:00",
+    "verifiedAt": null,
+    "verifiedBy": null,
+    "updatedAt": "2025-07-18 10:30:00"
+  },
+  {
+    "id": "ENR-003",
+    "studentId": "2022-0001-A",
+    "semesterId": "SEM-2025-1",
+    "subjects": ["CRS-008", "CRS-006"],
+    "status": "verified",
+    "submittedAt": "2025-07-14 08:00:00",
+    "verifiedAt": "2025-07-15 11:00:00",
+    "verifiedBy": "REG-001",
+    "updatedAt": "2025-07-15 11:00:00"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "GRD-001",
+    "studentId": "2023-0001-A",
+    "courseId": "CRS-001",
+    "semesterId": "SEM-2024-2",
+    "grade": 1.25,
+    "remarks": "Passed",
+    "submittedBy": "PROF-001",
+    "createdAt": "2025-05-20 10:00:00",
+    "updatedAt": "2025-05-20 10:00:00"
+  },
+  {
+    "id": "GRD-002",
+    "studentId": "2023-0001-A",
+    "courseId": "CRS-002",
+    "semesterId": "SEM-2024-2",
+    "grade": 1.5,
+    "remarks": "Passed",
+    "submittedBy": "PROF-001",
+    "createdAt": "2025-05-20 10:05:00",
+    "updatedAt": "2025-05-20 10:05:00"
+  },
+  {
+    "id": "GRD-003",
+    "studentId": "2023-0001-A",
+    "courseId": "CRS-006",
+    "semesterId": "SEM-2024-2",
+    "grade": 1.75,
+    "remarks": "Passed",
+    "submittedBy": "PROF-002",
+    "createdAt": "2025-05-21 09:00:00",
+    "updatedAt": "2025-05-21 09:00:00"
+  },
+  {
+    "id": "GRD-004",
+    "studentId": "2022-0001-A",
+    "courseId": "CRS-006",
+    "semesterId": "SEM-2024-2",
+    "grade": 2.0,
+    "remarks": "Passed",
+    "submittedBy": "PROF-002",
+    "createdAt": "2025-05-21 09:30:00",
+    "updatedAt": "2025-05-21 09:30:00"
+  }
+]
